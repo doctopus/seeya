@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://doctopus.github.io/Hugo-Blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-digital-garden-theme'
