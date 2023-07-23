@@ -1,5 +1,5 @@
-# relativeURLs = true
-baseURL = '/Hugo-Blog/'
+relativeURLs = true
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-digital-garden-theme'
