@@ -2,6 +2,7 @@
     <div class="container">
         <a class="navbar-brand" href="{{ .Site.BaseURL }}">
             {{ if .Site.Params.Initials }}
+            <img style="position: left; " src="{{ "logo.png" | absURL }}" width="50" height="50" >
             <b style="font-weight: 800;">{{ .Site.Params.Initials }}</b>
             {{ else }}
             <b style="font-weight: 800;">{{ .Site.Params.Name }}</b>

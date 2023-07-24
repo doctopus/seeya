@@ -1,7 +1,7 @@
 ---
 title: "Siya Maheshwari"
 date: 2015-01-01
-summary: "Persuing Passion in Music and Medicine"
+summary: "Persuing Passion in Medicine and Music"
 layout: about
 ---
 
